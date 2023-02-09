@@ -55,7 +55,9 @@ TODOs
 - Create slides
 - Test-give the masterclass
 - mention CLI
+- mention IP, mu, epsilon, loops, ...
 - mention SimPEG(emg3d), pyGIMLi(empymod/emg3d), JIF(empymod/emg3d)
+- https://curvenote.com/@prisae/emg3d-as-solver-for-simpeg/hackathon-emg3d-inversion-in-simpeg
 
 
 Notes
