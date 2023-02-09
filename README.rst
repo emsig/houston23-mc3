@@ -186,7 +186,7 @@ Local Installation
 
    .. code-block:: python
 
-       python -m ipykernel install --user --name houston23-mc
+       python -m ipykernel install --user --name houston23-mc3
 
 6. Start Jupyter Lab
 
@@ -203,6 +203,7 @@ the packages.
 
 If you prefer to install the required packages in whatever other way, feel free
 to do so. Here the packages lists:
+
 - Required: ``empymod``, ``emg3d``, ``matplotlib``, ``discretize``, ``h5py``,
   ``pooch``, ``xarray``; ``ipyml`` (for interactive plots in the Jupyter lab).
 - Optional: ``scooby``, ``mkl``, ``tqdm``.
