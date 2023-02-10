@@ -99,7 +99,7 @@ Local Installation
 The following google docs contains some further instructions, which might be
 useful (particular for Windows users): https://swu.ng/t20-python-setup
 
-I will use Python 3.9. However, Python 3.7-3.10 _should_ work; 3.11 will not
+I will use Python 3.10. However, Python 3.7-3.10 *should* work; 3.11 will not
 work (yet); earlier versions might work, but potentially with older versions of
 the packages.
 
@@ -127,7 +127,7 @@ Online
      :alt: Colab
 
   Google Colab: If you have a Google account you can also run it on Colab. You
-  have to login in order to run it (TODO TEST).
+  have to login in order to run it.
 
 - .. image:: https://jupyterlite.rtfd.io/en/latest/_static/badge-launch.svg
      :target: https://emsig.xyz/emlite
@@ -171,6 +171,22 @@ A multigrid solver for 3D electromagnetic diffusion.
 Further links
 -------------
 
+
+empymod/emg3d with inversion frameworks
+'''''''''''''''''''''''''''''''''''''''
+
+- SimPEG(emg3d): `curvenote.com/@prisae/emg3d-as-solver-for-simpeg/hackathon-emg3d-inversion-in-simpeg <https://curvenote.com/@prisae/emg3d-as-solver-for-simpeg/hackathon-emg3d-inversion-in-simpeg>`_
+- pyGIMLi(empymod): `github.com/gimli-org/transform2021 -> 6_Inversion_with_any_forward_operator.ipynb <https://github.com/gimli-org/transform2021/blob/main/6_Inversion_with_any_forward_operator.ipynb>`_
+
+
+DISC 2017 & em-apps
+'''''''''''''''''''
+
+- Website: `disc2017.geosci.xyz <https://disc2017.geosci.xyz>`_
+- SEG info: `seg.org/Education/Courses/DISC/2017-DISC-Doug-Oldenburg <https://seg.org/Education/Courses/DISC/2017-DISC-Doug-Oldenburg>`_
+- Repo `github.com/geoscixyz/em-apps <https://github.com/geoscixyz/em-apps>`_
+
+
 Software Underground (Swung) Transform Tutorials `swu.ng <https://swu.ng>`_
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
@@ -182,24 +198,11 @@ Software Underground (Swung) Transform Tutorials `swu.ng <https://swu.ng>`_
 - pyGIMLi 2021: `youtu.be/w3pu0H3dXe8 <https://youtu.be/w3pu0H3dXe8>`_
 - pyGIMLi 2022: `youtu.be/2Hu4gDnRzlU <https://youtu.be/2Hu4gDnRzlU>`_
 
-EMinars `mtnet.info/EMinars <https://mtnet.info/EMinars/EMinars.html>`_
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-- custEM 2022: `youtu.be/c_pHSD_ZyS8 <https://youtu.be/c_pHSD_ZyS8>`_
-  (slides: `mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf
-  <http://mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf>`_)
+EMinars
+'''''''
 
-
-DISC 2017 & em-apps
-'''''''''''''''''''
-
-- Website: `disc2017.geosci.xyz <https://disc2017.geosci.xyz>`_
-- SEG info: `seg.org/Education/Courses/DISC/2017-DISC-Doug-Oldenburg <https://seg.org/Education/Courses/DISC/2017-DISC-Doug-Oldenburg>`_
-- Repo `github.com/geoscixyz/em-apps <https://github.com/geoscixyz/em-apps>`_
-
-empymod/emg3d with inversion frameworks
-'''''''''''''''''''''''''''''''''''''''
-
-- SimPEG(emg3d): `curvenote.com/@prisae/emg3d-as-solver-for-simpeg/hackathon-emg3d-inversion-in-simpeg <https://curvenote.com/@prisae/emg3d-as-solver-for-simpeg/hackathon-emg3d-inversion-in-simpeg>`_
-- pyGIMLi(empymod): `github.com/gimli-org/transform2021 -> 6_Inversion_with_any_forward_operator.ipynb <https://github.com/gimli-org/transform2021/blob/main/6_Inversion_with_any_forward_operator.ipynb>`_
-
+- Website: `mtnet.info/EMinars <https://mtnet.info/EMinars/EMinars.html>`_
+- custEM 2022 Video: `youtu.be/c_pHSD_ZyS8 <https://youtu.be/c_pHSD_ZyS8>`_
+- custEM 2022 Slides: `mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf
+  <http://mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf>`_
