@@ -1,0 +1,23 @@
+name: houston23-mc3-mkl
+
+channels:
+    - conda-forge
+    - defaults
+
+dependencies:
+    - "libblas=*=*mkl"
+    - mkl
+    - mkl-service
+    - emg3d
+    - empymod
+    - matplotlib
+    - discretize
+    - h5py
+    - scooby
+    - jupyter
+    - tqdm
+    - pooch
+    - xarray
+    - ipympl
+    - ipykernel
+    - jupyterlab

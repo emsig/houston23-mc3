@@ -1,0 +1,20 @@
+name: houston23-mc3
+
+channels:
+    - conda-forge
+    - defaults
+
+dependencies:
+    - emg3d
+    - empymod
+    - matplotlib
+    - discretize
+    - h5py
+    - scooby
+    - jupyter
+    - tqdm
+    - pooch
+    - xarray
+    - ipympl
+    - ipykernel
+    - jupyterlab
