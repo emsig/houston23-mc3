@@ -198,24 +198,21 @@ Software Underground (Swung) Transform Tutorials `swu.ng <https://swu.ng>`_
 - pyGIMLi 2022: `youtu.be/2Hu4gDnRzlU <https://youtu.be/2Hu4gDnRzlU>`_
 
 
-EMinars
-'''''''
+EMinars `mtnet.info/EMinars <https://mtnet.info/EMinars/EMinars.html>`_
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-- Website: `mtnet.info/EMinars <https://mtnet.info/EMinars/EMinars.html>`_
+- **Marine Electromagnetic Methods - Beginnings to Today** by *Steve
+  Constable*: `Video <https://www.youtube.com/watch?v=UITjv78w9z4>`_;
+  `Slides <https://mtnet.info/EMinars/20211027_Constable_EMinar.pdf>`_.
 
-  - **Marine Electromagnetic Methods - Beginnings to Today** by *Steve
-    Constable*: `Video <https://www.youtube.com/watch?v=UITjv78w9z4>`_;
-    `Slides <https://mtnet.info/EMinars/20211027_Constable_EMinar.pdf>`_.
+- **Multi-physics analysis: Extracting the most from diverse datasets** by
+  *Lucy MacGregor*: `Video <https://youtu.be/mBd8tizMigE>`_;
+  `Slides <https://mtnet.info/EMinars/20210714_MacGregor_EMinar.pdf>`_.
 
-  - **Multi-physics analysis: Extracting the most from diverse datasets** by
-    *Lucy MacGregor*: 
-    `Video <https://youtu.be/mBd8tizMigE>`_;
-    `Slides <https://mtnet.info/EMinars/20210714_MacGregor_EMinar.pdf>`_.
+- **Fundamentals of Inversion** by *Douglas Oldenburg*:
+  `Video <https://youtu.be/YHhugJICXl4>`_;
+  `Slides <https://mtnet.info/EMinars/20210303_Oldenburg_EMinar.pdf>`_.
 
-  - **Fundamentals of Inversion** by *Douglas Oldenburg*:
-    `Video <https://youtu.be/YHhugJICXl4>`_;
-    `Slides <https://mtnet.info/EMinars/20210303_Oldenburg_EMinar.pdf>`_.
-
-  - **custEM**: by *Raphael Rochlitz*:
-    `Video <https://youtu.be/c_pHSD_ZyS8>`_;
-    `Slides <https://mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf>`_.
+- **custEM**: by *Raphael Rochlitz*:
+  `Video <https://youtu.be/c_pHSD_ZyS8>`_;
+  `Slides <https://mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf>`_.
