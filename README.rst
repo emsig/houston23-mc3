@@ -7,7 +7,7 @@ Masterclass 3: EM Modelling
    :alt: Delphi-Consortium
 
 
-**2023 Delphi Meeting in Houston**
+**2023 Delphi Meetings in Houston & The Hague**
 
 
 .. image:: https://mybinder.org/badge_logo.svg
@@ -203,6 +203,12 @@ EMinars
 '''''''
 
 - Website: `mtnet.info/EMinars <https://mtnet.info/EMinars/EMinars.html>`_
+
+  - **Marine Electromagnetic Methods - Beginnings to Today** by *Steve
+    Constable*: [Video](https://www.youtube.com/watch?v=UITjv78w9z4);
+    [Slides](https://mtnet.info/EMinars/20211027_Constable_EMinar.pdf).
+
 - custEM 2022 Video: `youtu.be/c_pHSD_ZyS8 <https://youtu.be/c_pHSD_ZyS8>`_
+
 - custEM 2022 Slides: `mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf
   <http://mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf>`_
