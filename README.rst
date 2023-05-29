@@ -33,15 +33,15 @@ exploration.
 Structure of this Masterclass
 -----------------------------
 
-- Introduction ('20)
+- Introduction ('30)
  
   - `Pre-requisites to run the examples <#pre-requisites-to-run-the-examples>`_
-  - EM in Exploration Geophysics in 5 Minutes
+  - EM in Exploration Geophysics in 10 Minutes
   - `Codes, their manuals and galleries <#codes-their-manuals-and-galleries>`_
 
 - Modelling with ``empymod`` ('30)
 
-- Modelling with ``emg3d`` ('40)
+- Modelling with ``emg3d`` ('30)
 
 
 - `Further links <#further-links>`_
@@ -59,7 +59,7 @@ Pre-requisites to run the examples
 Local Installation
 ''''''''''''''''''
 
-1. Download and install the correct Mambaforge for your OS:  
+1. Download and install the corresponding Mambaforge for your OS:  
    https://github.com/conda-forge/miniforge#mambaforge
 
    (Mambaforge uses mamba, the faster conda implementation, and sets
@@ -99,9 +99,8 @@ Local Installation
 The following google docs contains some further instructions, which might be
 useful (particular for Windows users): https://swu.ng/t20-python-setup
 
-I will use Python 3.10. However, Python 3.7-3.10 *should* work; 3.11 will not
-work (yet); earlier versions might work, but potentially with older versions of
-the packages.
+I will use Python 3.11. However, Python 3.7-3.11 *should* work; earlier
+versions might work, but potentially with older versions of the packages.
 
 If you prefer to install the required packages in whatever other way, feel free
 to do so. Here the packages lists:
@@ -205,10 +204,18 @@ EMinars
 - Website: `mtnet.info/EMinars <https://mtnet.info/EMinars/EMinars.html>`_
 
   - **Marine Electromagnetic Methods - Beginnings to Today** by *Steve
-    Constable*: [Video](https://www.youtube.com/watch?v=UITjv78w9z4);
-    [Slides](https://mtnet.info/EMinars/20211027_Constable_EMinar.pdf).
+    Constable*: `Video <https://www.youtube.com/watch?v=UITjv78w9z4>`_;
+    `Slides <https://mtnet.info/EMinars/20211027_Constable_EMinar.pdf>`_.
 
-- custEM 2022 Video: `youtu.be/c_pHSD_ZyS8 <https://youtu.be/c_pHSD_ZyS8>`_
+  - **Multi-physics analysis: Extracting the most from diverse datasets** by
+    *Lucy MacGregor*: 
+    `Video <https://youtu.be/mBd8tizMigE>`_;
+    `Slides <https://mtnet.info/EMinars/20210714_MacGregor_EMinar.pdf>`_.
 
-- custEM 2022 Slides: `mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf
-  <http://mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf>`_
+  - **Fundamentals of Inversion** by *Douglas Oldenburg*:
+    `Video <https://youtu.be/YHhugJICXl4>`_;
+    `Slides <https://mtnet.info/EMinars/20210303_Oldenburg_EMinar.pdf>`_.
+
+  - **custEM**: by *Raphael Rochlitz*:
+    `Video <https://youtu.be/c_pHSD_ZyS8>`_;
+    `Slides <https://mtnet.info/EMinars/20220316_Rochlitz_EMinar.pdf>`_.
